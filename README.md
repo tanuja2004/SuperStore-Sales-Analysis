@@ -48,8 +48,7 @@ The SuperStore Sales Analysis provides a detailed examination of sales, profit, 
 ## Files in the Repository  
 - **SuperStore Dashboard.pbix**: Power BI dashboard file containing all visuals and calculations.  
 - **SuperStore Sales Data.xlsx**: Sales dataset used for analysis.  
-- **README.md**: Documentation for the project.  
-- **Screenshots**: Visual previews of the dashboard (optional).  
+- **README.md**: Documentation for the project.    
 
 ---
 
@@ -72,5 +71,5 @@ The SuperStore Sales Analysis provides a detailed examination of sales, profit, 
 
 ## Contact  
 For questions or suggestions, please feel free to reach out!  
-- **Email**: [tanujabhosale1004@gmail.com](mailto:tanujabhosale1004@gmail.com)  
-- **GitHub Profile**: [Your GitHub Profile Link](https://github.com/your-profile)  
+- **Email**: tanujabhosale1004@gmail.com
+- **GitHub Profile**: https://github.com/tanuja2004
